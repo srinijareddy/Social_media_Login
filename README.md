@@ -32,7 +32,7 @@ to > View all Customers.
 ◇ No Login Page. No Customer Creation. Only transfer of money
 between multiple customers .
 ◇ Upload video demo of your application on youtube and
-submit the url.
+submit the url..
 https://github.com/srinijareddy/Basic-Banking-App
 
 
